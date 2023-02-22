@@ -1,9 +1,7 @@
 #ifndef _MAIN_H_
-#define _MSIN_H_
-
+#define _MAIN_H_
 
 extern char **environ;
-
 
 #define BUFSIZE 1024
 #define DELIM " \t\r\n\a"
